@@ -1,0 +1,72 @@
+[
+  {
+    "chapter": "chapter1",
+    "approved": true,
+    "score": 9,
+    "comments": "-",
+    "tone_ok": true,
+    "recommend_for_publishing": false,
+    "timestamp": "2025-07-18 19:05:22",
+    "AI_score": 8
+  },
+  {
+    "chapter": "chapter1",
+    "approved": true,
+    "score": 10,
+    "comments": "-",
+    "tone_ok": true,
+    "recommend_for_publishing": true,
+    "timestamp": "2025-07-18 19:11:08",
+    "AI_score": 8
+  },
+  {
+    "chapter": "chapter1",
+    "approved": true,
+    "score": 10,
+    "comments": "-",
+    "tone_ok": true,
+    "recommend_for_publishing": true,
+    "timestamp": "2025-07-18 19:40:02",
+    "AI_score": 9
+  },
+  {
+    "chapter": "chapter1",
+    "approved": true,
+    "score": 10,
+    "comments": "-",
+    "tone_ok": true,
+    "recommend_for_publishing": true,
+    "timestamp": "2025-07-19 00:32:56",
+    "AI_score": 9
+  },
+  {
+    "chapter": "chapter1",
+    "approved": true,
+    "score": 4,
+    "comments": "-",
+    "tone_ok": true,
+    "recommend_for_publishing": true,
+    "timestamp": "2025-07-19 05:54:56",
+    "AI_score": 8
+  },
+  {
+    "chapter": "chapter1",
+    "approved": true,
+    "score": 8,
+    "comments": "-",
+    "tone_ok": true,
+    "recommend_for_publishing": false,
+    "timestamp": "2025-07-19 06:08:05",
+    "AI_score": 8
+  },
+  {
+    "chapter": "chapter1",
+    "approved": true,
+    "score": 7,
+    "comments": "none",
+    "tone_ok": true,
+    "recommend_for_publishing": false,
+    "timestamp": "2025-07-19 06:15:30",
+    "AI_score": 8
+  }
+]

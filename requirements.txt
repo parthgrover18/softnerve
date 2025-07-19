@@ -1,0 +1,5 @@
+playwright
+chromadb
+google-generativeai
+python-dotenv
+numpy
